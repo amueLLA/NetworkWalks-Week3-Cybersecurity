@@ -96,7 +96,7 @@ The three training PDFs were successfully unlocked.
 
 The Johnny interface displaying the successful recovery result.
 
-![Johnny password recovery result](../screenshots/Johnnypng)
+![Johnny password recovery result](../screenshots/Johnny.png)
 
 ### PDF 1 — Successfully Unlocked
 
