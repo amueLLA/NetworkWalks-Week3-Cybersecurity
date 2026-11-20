@@ -90,25 +90,25 @@ After recovering the passwords, I opened the protected PDF files to verify that 
 
 The three training PDFs were successfully unlocked.
 
+
 ## 📸 Screenshots and Evidence
 
-### Johnny — Successful Password Recovery
+### 1. Johnny — Successful Password Recovery
 
-The Johnny interface displaying the successful recovery result.
+![Johnny Password Recovery](../../screenshots/Johnny.png)
 
-![Johnny password recovery result](../screenshots/Johnny.png)
+### 2. PDF 1 — Successfully Unlocked
 
-### PDF 1 — Successfully Unlocked
+![PDF 1 Unlocked](../../screenshots/pdf1-unlocked.png)
 
-![PDF 1 unlocked](../screenshots/pdf1-unlocked.png)
+### 3. PDF 2 — Successfully Unlocked
 
-### PDF 2 — Successfully Unlocked
+![PDF 2 Unlocked](../../screenshots/pdf2-unlocked.png)
 
-![PDF 2 unlocked](../screenshots/pdf2-unlocked.png)
+### 4. PDF 3 — Successfully Unlocked
 
-### PDF 3 — Successfully Unlocked
+![PDF 3 Unlocked](../../screenshots/pdf3-unlocked.png)
 
-![PDF 3 unlocked](../screenshots/pdf3-unlocked.png)
 
 ## 🧩 Challenges and Solutions
 
